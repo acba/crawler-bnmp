@@ -1,0 +1,26 @@
+{
+  "criterio": {
+    "orgaoJulgador": {
+      "uf": "PB",
+      "municipio": "",
+      "descricao": ""
+    },
+    "orgaoJTR": {},
+    "parte": {
+      "documentos": [
+        {
+          "identificacao": null
+        }
+      ]
+    }
+  },
+  "paginador": {
+    "paginaAtual": 1,
+    "registrosPorPagina": 200
+  },
+  "fonetica": "true",
+  "ordenacao": {
+    "porNome": false,
+    "porData": false
+  }
+}
